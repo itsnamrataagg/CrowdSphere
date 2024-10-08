@@ -6,3 +6,6 @@ Ganache was used as a local blockchain and truffle to compile the smart contract
 
 
 
+
+
+
